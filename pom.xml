@@ -121,7 +121,7 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
         <hibernate.version>5.2.5.Final</hibernate.version>
-        <springframework.version>4.3.4.RELEASE</springframework.version>
+        <springframework.version>5.3.18</springframework.version>
     </properties>
     <build>
         <finalName>dawm07eac4magatzem</finalName>
